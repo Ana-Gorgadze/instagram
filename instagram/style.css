@@ -1,0 +1,407 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.a1{
+    width: 400px;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(221, 221, 221);
+    position: fixed;
+}
+.a1 .w1 img{
+    width: 150px;
+    margin-top: 20px;
+}
+.a1 h2{
+    margin-left: 40px;
+}
+
+.a1 .w2 img{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+}
+.a1 .w2 .c1{
+    margin-left: 55px;
+    margin-top: -45px;
+}
+
+.a2{
+    margin-left: 70%;
+    margin-top: 20px;
+    position: fixed;
+}
+.a2 img{
+    width: 50px;
+    height: 50px;
+    border-radius: 35px;
+}
+.a2 .r1{
+    font-size: 20px;
+}
+.a2 h3{
+    margin-left: 65px;
+    font-size: 17px;
+    margin-top: -50px;
+    position: absolute;
+}
+.a2 p{
+    margin-left: 65px;
+    margin-top: -45px;
+    position: absolute;
+    color: rgb(158, 158, 158);
+}
+.a2 h4{
+    color: rgb(158, 158, 158);
+}
+.a2 h5{
+    color: rgb(158, 158, 158);
+}
+
+
+.a3{
+    margin-left: 37%;
+    width: 450px;
+    height: 670px;
+    background-color: rgb(255, 255, 255);
+}
+.a3 .t1{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a3 h3{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.a3 h4{
+    margin-left: 70px;
+    margin-top: -1px;
+    color: gray;
+}
+.a3 .t2{
+    width: 410px;
+    margin-left: 20px;
+}
+.a3 .p1{
+    padding: 20px;
+    font-size: 29px;
+}
+.a3 .p1:hover{
+    color: rgb(207, 206, 206);
+}
+.a3 .p1:active{
+    color: red;
+    text-shadow: 0 0 20px red;
+}
+.a3 .p2{
+    font-size: 29px;
+    margin-left: 62px;
+    margin-top: -52px;
+}
+.a3 .p2:hover{
+    color: rgb(207, 206, 206);
+}
+.a3 .p2:active{
+    color: rgb(0, 238, 255);
+    text-shadow: 0 0 20px rgb(0, 238, 255);
+}
+.a3 .p3{
+    font-size: 29px;
+    margin-left: 100px;
+    margin-top: -32px;
+}
+.a3 .p3:hover{
+    color: rgb(207, 206, 206);
+}
+.a3 .p3:active{
+    color: blue;
+    text-shadow: 0 0 20px blue;
+}
+
+.a3 .p4{
+    font-size: 29px;
+    margin-left: 400px;
+    margin-top: -32px;
+}
+.a3 .p4:hover{
+    color: rgb(207, 206, 206);
+}
+.a3 .p4:active{
+    color: rgb(255, 230, 0);
+    text-shadow: 0 0 20px rgb(255, 230, 0);
+}
+.a3 h5{
+    padding: 20px;
+}
+.a3 h6{
+    margin-left: 20px;
+    color: gray;
+}
+
+
+
+
+
+
+.a4{
+    margin-left: 37%;
+    margin-top: -40px;
+    width: 450px;
+    height: 670px;
+    background-color: rgb(255, 255, 255);
+}
+.a4 .t1{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a4 h3{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.a4 h4{
+    margin-left: 70px;
+    margin-top: -1px;
+    color: gray;
+}
+.a4 .t2{
+    width: 410px;
+    margin-left: 20px;
+}
+.a4 .p1{
+    padding: 20px;
+    font-size: 29px;
+}
+.a4 .p1:hover{
+    color: rgb(207, 206, 206);
+}
+.a4 .p1:active{
+    color: red;
+    text-shadow: 0 0 20px red;
+}
+.a4 .p2{
+    font-size: 29px;
+    margin-left: 62px;
+    margin-top: -52px;
+}
+.a4 .p2:hover{
+    color: rgb(207, 206, 206);
+}
+.a4 .p2:active{
+    color: rgb(0, 238, 255);
+    text-shadow: 0 0 20px rgb(0, 238, 255);
+}
+.a4 .p3{
+    font-size: 29px;
+    margin-left: 100px;
+    margin-top: -32px;
+}
+.a4 .p3:hover{
+    color: rgb(207, 206, 206);
+}
+.a4 .p3:active{
+    color: blue;
+    text-shadow: 0 0 20px blue;
+}
+
+.a4 .p4{
+    font-size: 29px;
+    margin-left: 400px;
+    margin-top: -32px;
+}
+.a4 .p4:hover{
+    color: rgb(207, 206, 206);
+}
+.a4 .p4:active{
+    color: rgb(255, 230, 0);
+    text-shadow: 0 0 20px rgb(255, 230, 0);
+}
+.a4 h5{
+    padding: 20px;
+}
+.a4 h6{
+    margin-left: 20px;
+    color: gray;
+}
+
+
+
+
+
+
+
+.a5{
+    margin-left: 37%;
+    margin-top: 140px;
+    width: 450px;
+    height: 670px;
+    background-color: rgb(255, 255, 255);
+}
+.a5 .t1{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a5 h3{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.a5 h4{
+    margin-left: 70px;
+    margin-top: -1px;
+    color: gray;
+}
+.a5 .t2{
+    width: 410px;
+    margin-left: 20px;
+}
+.a5 .p1{
+    padding: 20px;
+    font-size: 29px;
+}
+.a5 .p1:hover{
+    color: rgb(207, 206, 206);
+}
+.a5 .p1:active{
+    color: red;
+    text-shadow: 0 0 20px red;
+}
+.a5 .p2{
+    font-size: 29px;
+    margin-left: 62px;
+    margin-top: -52px;
+}
+.a5 .p2:hover{
+    color: rgb(207, 206, 206);
+}
+.a5 .p2:active{
+    color: rgb(0, 238, 255);
+    text-shadow: 0 0 20px rgb(0, 238, 255);
+}
+.a5 .p3{
+    font-size: 29px;
+    margin-left: 100px;
+    margin-top: -32px;
+}
+.a5 .p3:hover{
+    color: rgb(207, 206, 206);
+}
+.a5 .p3:active{
+    color: blue;
+    text-shadow: 0 0 20px blue;
+}
+
+.a5 .p4{
+    font-size: 29px;
+    margin-left: 400px;
+    margin-top: -32px;
+}
+.a5 .p4:hover{
+    color: rgb(207, 206, 206);
+}
+.a5 .p4:active{
+    color: rgb(255, 230, 0);
+    text-shadow: 0 0 20px rgb(255, 230, 0);
+}
+.a5 h5{
+    padding: 20px;
+}
+.a5 h6{
+    margin-left: 20px;
+    color: gray;
+}
+
+
+
+
+
+.a6{
+    margin-left: 37%;
+    margin-top: 40px;
+    width: 450px;
+    height: 670px;
+    background-color: rgb(255, 255, 255);
+}
+.a6 .t1{
+    width: 45px;
+    height: 45px;
+    border-radius: 35px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.a6 h3{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.a6 h4{
+    margin-left: 70px;
+    margin-top: -1px;
+    color: gray;
+}
+.a6 .t2{
+    width: 410px;
+    margin-left: 20px;
+}
+.a6 .p1{
+    padding: 20px;
+    font-size: 29px;
+}
+.a6 .p1:hover{
+    color: rgb(207, 206, 206);
+}
+.a6 .p1:active{
+    color: red;
+    text-shadow: 0 0 20px red;
+}
+.a6 .p2{
+    font-size: 29px;
+    margin-left: 62px;
+    margin-top: -52px;
+}
+.a6 .p2:hover{
+    color: rgb(207, 206, 206);
+}
+.a6 .p2:active{
+    color: rgb(0, 238, 255);
+    text-shadow: 0 0 20px rgb(0, 238, 255);
+}
+.a6 .p3{
+    font-size: 29px;
+    margin-left: 100px;
+    margin-top: -32px;
+}
+.a6 .p3:hover{
+    color: rgb(207, 206, 206);
+}
+.a6 .p3:active{
+    color: blue;
+    text-shadow: 0 0 20px blue;
+}
+
+.a6 .p4{
+    font-size: 29px;
+    margin-left: 400px;
+    margin-top: -32px;
+}
+.a6 .p4:hover{
+    color: rgb(207, 206, 206);
+}
+.a6 .p4:active{
+    color: rgb(255, 230, 0);
+    text-shadow: 0 0 20px rgb(255, 230, 0);
+}
+.a6 h5{
+    padding: 20px;
+}
+.a6 h6{
+    margin-left: 20px;
+    color: gray;
+}
